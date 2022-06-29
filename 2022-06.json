@@ -330,7 +330,7 @@
     "date": "2022-06-15",
     "source": "https://bookclub.kodansha.co.jp/calendar",
     "recordTime": "2022-05-26 18:23",
-    "lastCheckTime": "2022-06-26 06:45"
+    "lastCheckTime": "2022-06-29 20:29"
   },
   {
     "title": "秘密結社デスクロイツ　３",
@@ -342,7 +342,7 @@
     "date": "2022-06-01",
     "source": "https://bookclub.kodansha.co.jp/calendar",
     "recordTime": "2022-05-26 18:23",
-    "lastCheckTime": "2022-06-26 06:45"
+    "lastCheckTime": "2022-06-29 20:29"
   },
   {
     "title": "ちいさな君と、こえを遠くに",
@@ -378,7 +378,7 @@
     "date": "2022-06-02",
     "source": "https://kc.kodansha.co.jp/calendar",
     "recordTime": "2022-05-26 18:23",
-    "lastCheckTime": "2022-06-26 06:45"
+    "lastCheckTime": "2022-06-29 20:29"
   },
   {
     "title": "じつは義妹でした。３ ～最近できた義理の弟の距離感がやたら近いわけ～",
@@ -4254,7 +4254,7 @@
     "date": "2022-06-29",
     "source": "https://bookclub.kodansha.co.jp/calendar",
     "recordTime": "2022-06-01 12:27",
-    "lastCheckTime": "2022-06-26 06:45"
+    "lastCheckTime": "2022-06-29 20:29"
   },
   {
     "title": "うしろの席のぎゃるに好かれてしまった。 もう俺はダメかもしれない。",
@@ -4950,7 +4950,7 @@
     "date": "2022-06-29",
     "source": "https://bookclub.kodansha.co.jp/calendar",
     "recordTime": "2022-06-04 09:22",
-    "lastCheckTime": "2022-06-26 06:45"
+    "lastCheckTime": "2022-06-29 20:29"
   },
   {
     "title": "メイド喫茶探偵黒苺フガシの事件簿",
@@ -4962,7 +4962,7 @@
     "date": "2022-06-29",
     "source": "https://bookclub.kodansha.co.jp/calendar",
     "recordTime": "2022-06-04 22:39",
-    "lastCheckTime": "2022-06-26 06:45"
+    "lastCheckTime": "2022-06-29 20:29"
   },
   {
     "title": "緋弾のアリアＸＸＸVII 第三の男",
@@ -5693,7 +5693,7 @@
       "h": 2500
     },
     "recordTime": "2022-06-22 19:05",
-    "lastCheckTime": "2022-06-23 18:47"
+    "lastCheckTime": "2022-06-29 20:37"
   },
   {
     "title": "カノママは初恋のひと。 母と娘のトリプルプレイ",
@@ -5718,6 +5718,31 @@
     },
     "coverFile": "2022-06/amzn_81p5xiwz6oL_202206231847.jpg",
     "recordTime": "2022-06-23 18:47",
-    "lastCheckTime": "2022-06-23 18:47"
+    "lastCheckTime": "2022-06-29 20:37"
+  },
+  {
+    "title": "ハーレムクイーンメーカー ドS王女と成り上がれ!",
+    "date": "2022-06-13",
+    "source": "https://www.amazon.co.jp/dp/4799216465/",
+    "coverSourceUrl": "https://images-na.ssl-images-amazon.com/images/I/81PeUA4UWqL.jpg",
+    "creators": [
+      "竹内けんのAmazon著者ページを見る",
+      "KEN"
+    ],
+    "creator_refines": [
+      "著",
+      "イラスト"
+    ],
+    "description": "美少女を自分好みに育てたはずが、<br> ドSで淫乱な処女王爆誕! ? <br> <br> ラルフィント王国山麓朝の美姫メロディアは、<br> 従者シュナイゼルが覇王として<br> 君臨させるべく育てた孤高の美少女。<br> 彼女は異母兄と王位継承権を巡り対立していた。 <br> <br> 主君をラルフィント王国初の女帝にするため、<br> 裏で汚れ仕事に手を染めるシュナイゼル。<br> 表では主君の性欲処理を手伝ううち、メロディアが<br> 処女なのに加虐嗜好な変態に目覚めてしまい! ? <br> <br> 天馬乗りの純愛姫騎士・アンナや<br> クール傭兵美女・ゲルダを手駒に、<br> 従者は敵を陥れ暗躍する! <br> <br>",
+    "isbn": "9784799216460",
+    "label": "二次元ドリーム文庫",
+    "coverDataHash": "352fd1d2b5f71d7c101b32e692070ac7",
+    "coverFile": "2022-06/amzn_81PeUA4UWqL_202205181345.jpg",
+    "coverSize": {
+      "w": 1447,
+      "h": 2039
+    },
+    "recordTime": "2022-06-29 20:37",
+    "lastCheckTime": "2022-06-29 20:37"
   }
 ]
